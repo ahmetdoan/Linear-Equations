@@ -44,7 +44,9 @@ linearEquationProject/
 ├── LinearEquationGaussVsCramer.java     - Cramer vs Gauss zaman karşılaştırması
 ├── SolverTest.java                      - Test sınıfı (4 örnek denklem)
 ```
-
+---
+## GUI Görüntüsü
+![alt text](<GUI SS-1.png>)
 ---
 
 ## Test Sınıfı
